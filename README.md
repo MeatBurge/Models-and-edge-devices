@@ -24,7 +24,7 @@ By following this guide, users can efficiently establish the desired runtime env
 
 ---
 
-**Directory Name: [CNN_Model](https://github.com/PINetDalhousie/Group2---CSCI-6709/tree/main/CNN_Model)**
+**Directory Name: [CNN_Model](https://github.com/MeatBurge/Models-and-edge-devices/tree/main/CNN_Model)**
 
 The goal of this experiment is to create various neural network models for the MNIST dataset using TensorFlow, and identify the optimal model through optimization and fine-tuning. The chosen model is then evaluated on a test dataset to produce a confusion matrix and a classification report.
 
