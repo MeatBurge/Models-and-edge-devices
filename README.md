@@ -5,7 +5,7 @@
 
 ---
 
-**Directory Name:  [Runtime Environment](https://github.com/PINetDalhousie/Group2---CSCI-6709/tree/main/Runtime%20environment)**
+**Directory Name:  [Runtime Environment](https://github.com/MeatBurge/Models-and-edge-devices/tree/main/Runtime%20environment)**
 
 The files in the directory area are a comprehensive guide on setting up a Tensorflow Lite and OpenVINO IR model runtime environment on Raspberry Pi 3/4 hardware, utilizing the Intel® Neural Compute Stick 2. It outlines the steps necessary to install and configure the required software and hardware components. The guide is organized into the following sections:
 
